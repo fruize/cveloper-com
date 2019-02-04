@@ -27,5 +27,6 @@ Cveloper is  a webapp?? for developers that allows you to style your curriculum 
 At first, we design the theoretical part of the project. We decided the user types, the database structure and the services that we want to offer.
 
 Then, we choose the technologies (that) we want to use. All the application code is written in PHP (HyperText Preprocessor), MySQL (Structured Query Language) for the database and Git(a version control software) for teamwork.
+
 We had  to learn the  Git workflow in order to set up the document syncing and to use the commands.
 Also, we had to research some advanced MySQL features for the most difficult query.
