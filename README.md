@@ -4,6 +4,8 @@ Repositorio central de CVeloper.
 ## ¿Qué es CVeloper?
 Nos dimos cuenta de que el curriculum de los desarrolladores tienen muy buen contenido pero muy mal diseño, nuestro objetivo es crear curriculums con diseños profesionales y nuestros conocimientos y nuestra experiencia.
 Cveloper es una aplicación web para desarrolladores de software que permite dar estilo a tu currículum y ponerte en contacto con empresas donde trabajar y centros de formación para formarte.
+
+
 ###Metodología
 Al principio, diseñamos la parte teórica del proyecto. Decidimos los tipos de usuarios, la estructura de la base de datos y los servicios que queríamos ofrecer.
 Luego escogimos las tecnologías que queríamos usar. Todo el código de la aplicación está escrito en PHP (HyperText Preprocessor), elegimos MySQL(Structured Query Language) para la base de datos, y Git(control de versiones) para trabajar en equipo.
